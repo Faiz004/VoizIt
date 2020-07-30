@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727369143955",
+    "firebase_url": "https://voizlt-2bd56.firebaseio.com",
+    "project_id": "voizlt-2bd56",
+    "storage_bucket": "voizlt-2bd56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727369143955:android:485f8d046c050c69165f66",
+        "android_client_info": {
+          "package_name": "com.example.voizit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727369143955-9869bpunir04b0uqvt1kba51dkohgg1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voizit",
+            "certificate_hash": "362cae3df74c51f3a88fca30cc9bfb0fc408ad6c"
+          }
+        },
+        {
+          "client_id": "727369143955-qjd98jmn9bgklmjkdqq1m11p2fkg4a82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQszKA9tCOYK8dUHw3TeDKHsPObt_8cXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727369143955-qjd98jmn9bgklmjkdqq1m11p2fkg4a82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
